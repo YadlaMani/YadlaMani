@@ -1,16 +1,16 @@
 [![An image of @yadlamani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yadlamani)](https://holopin.io/@yadlamani)
 [![](https://visitcount.itsvg.in/api?id=YadlaMani&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Mani Yadla</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h3 align="center">A full stack and web3 developer from India.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 
-- 🌱 I’m currently learning **Blockchain , Next js**
+- 🌱 I’m currently learning **Rust,EVM  and Next js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YadlaMani?tab=repositories](https://github.com/YadlaMani?tab=repositories)
 
-- 💬 Ask me about **Web development and DSA**
+- 💬 Ask me about **Web development,Web3 and DSA**
 
 - 📫 How to reach me **yadlamani03@gmail.com**
 
