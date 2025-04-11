@@ -1,7 +1,13 @@
 [![An image of @yadlamani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yadlamani)](https://holopin.io/@yadlamani)
 [![](https://visitcount.itsvg.in/api?id=YadlaMani&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Mani Yadla</h1>
+
 <h3 align="center">A full stack and web3 developer from India.</h3>
+
+
+## 🚀 Proof of Work
+
+Check out the **best of my projects** here 👉 [Mani Yadla – Proof of Work](https://profuse-name-f33.notion.site/Mani-Yadla-proof-of-work-1a127f6bc69a8024b804e85ddbe1cf10)
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
